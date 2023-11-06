@@ -1,0 +1,7 @@
+a = 3
+b = 6
+x = a is b
+y = a is not b
+print(x and y)
+print(x or y)
+print(not x)
